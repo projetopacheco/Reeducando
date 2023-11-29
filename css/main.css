@@ -1696,10 +1696,3 @@ button {
 button:hover {
   background-color: var(--color-default);
 }
-
-.alpha{
-  text-align: center;
-  display: inline-block;
-  margin-left: 420px;
-}
-
